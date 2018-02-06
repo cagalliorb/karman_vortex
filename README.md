@@ -1,4 +1,3 @@
 # karman_vortex
-## Demo
-角柱後方のカルマン渦
+## Karman Vortex behind prismatic
 ![result](https://github.com/cagalliorb/karman_vortex/blob/media/anim.gif)
