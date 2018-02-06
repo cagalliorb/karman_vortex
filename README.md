@@ -1,5 +1,4 @@
 # karman_vortex
 ## Demo
-
-Depending on input, the output is displayed as the result like the image below.
+角柱後方のカルマン渦
 ![result](https://github.com/cagalliorb/karman_vortex/blob/media/anim.gif)
